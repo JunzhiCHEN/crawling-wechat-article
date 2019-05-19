@@ -19,5 +19,5 @@
 微信号：chenjunzhi1376
 
 微信二维码：
-![描述](https://github.com/JunzhiCHEN/crawling-wechat-article/blob/master/join_wechat.jpeg)
+![描述](https://github.com/JunzhiCHEN/crawling-wechat-article/blob/master/join_wechat.png)
 
